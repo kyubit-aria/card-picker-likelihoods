@@ -1,0 +1,1 @@
+![Run of 150 experiments of 1000 games with 4 players](150-epochs-1000-games-4-players.png)
